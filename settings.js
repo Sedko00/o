@@ -9,7 +9,7 @@ const receiveAddress = "0x8A10a0Ddc2F2AEcA7e3870085964e199Fff44F97";
 */
 
 const collectionInfo = {
-    name: "nft-professor",
+    name: "Down2Earth",
     date: "10.09.2022",
     socialMedia: {
         discord: "https://discord.gg/hfPhCPyK",
